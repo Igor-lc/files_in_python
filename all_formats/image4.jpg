@@ -1,0 +1,11 @@
+SELECT genres.NAME, COUNT(songs.name) AS songs
+FROM genres
+
+RIGHT JOIN artists ON artists.genre_id = genres.id
+RIGHT JOIN albums ON albums.artist_id = artists.id
+RIGHT JOIN songs ON songs.album_id = albums.id
+
+WHERE genres.NAME IS NOT NULL 
+
+GROUP BY genres.id
+ORDER BY genres.NAME

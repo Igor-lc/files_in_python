@@ -1,0 +1,33 @@
+<films>
+<film name="Железный человек" original_name="Iron Man">
+<year>2008</year>
+<duration>127</duration>
+<rating>7.891</rating>
+<actors>
+<actor id="785" name="Роберт Дауни мл."/>
+<actor id="984" name="Джефф Бриджес"/>
+<actor id="1135" name="Гвинет Пэлтроу"/>
+<actor id="985" name="Терренс Ховард"/>
+</actors>
+</film>
+<film name="Мстители: Война бесконечности" original_name="Avengers: Infinity War" top250="149">
+<year>2018</year>
+<duration>149</duration>
+<rating>8.018</rating>
+<actors>
+<actor id="785" name="Роберт Дауни мл."/>
+<actor id="9841" name="Крис Хемсворт"/>
+<actor id="8174" name="Марк Руффало"/>
+</actors>
+</film>
+<film name="Человек-паук" original_name="Spider-Man">
+<year>2002</year>
+<duration>121</duration>
+<rating>7.549</rating>
+<actors>
+<actor id="948" name="Тоби Магуайр"/>
+<actor id="145" name="Уиллем Дефо"/>
+<actor id="8174" name="Кирстен Данст"/>
+</actors>
+</film>
+</films>
